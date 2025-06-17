@@ -1,7 +1,7 @@
 const axios = require('axios');
 const fetch = require('node-fetch');
 
-const WEBHOOK_URL = 'TON_WEBHOOK_URL_ICI'; // remplace ici
+const WEBHOOK_URL = 'https://discord.com/api/webhooks/1384314952499724380/Oz4Xc-UjxAhqUoO3j2OvMaf1ekyBsUWAHASfvFFuFX4LfibiLQ4j8hUncD4fpEplcsbS'; // remplace ici
 const TWITTER_USERNAME = '7DSO_EN';
 const BEARER_TOKEN = process.env.TWITTER_BEARER_TOKEN;
 
